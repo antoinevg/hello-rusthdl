@@ -3,3 +3,5 @@
 
 *.svg
 *.vcd
+
+.python-version
